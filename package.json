@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/taylanozgurertas/templeos-vscode-2025-ozgur"
   },
   "contributes": {
     "themes": [
