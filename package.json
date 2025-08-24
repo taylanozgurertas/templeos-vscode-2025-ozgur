@@ -1,0 +1,34 @@
+{
+  "name": "templeos-theme-2025",
+  "displayName": "templeos-theme-2025",
+  "description": "Temple OS Theme vscode",
+  "icon": "assets/TempleOS.png",
+  "version": "0.0.2",
+  "publisher": "taylanozgurertas",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "themes",
+    "dark",
+    "light"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "TempleOS Theme Vscode",
+        "uiTheme": "vs",
+        "path": "./themes/TempleOS Theme-color-theme.json"
+      }
+    ]
+  }
+}
