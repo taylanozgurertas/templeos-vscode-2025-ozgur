@@ -2082,7 +2082,6 @@
 	  "settings.dropdownForeground": "#000000",
 	  "settings.checkboxForeground": "#000000",
 	  "settings.checkboxBackground": "#ffffff",
-	  "settings.checkboxBorder": "#aaaaaa",
 	  "settings.textInputForeground": "#000000",
 	  "settings.textInputBackground": "#ffffff",
 	  "walkThrough.embeddedEditorBackground": "#00000050",
@@ -2090,5 +2089,27 @@
 	  "editorGutter.commentRangeForeground": "#424242",
 	  "debugExceptionWidget.background": "#aaaaaa",
 	  "debugExceptionWidget.border": "#000000"
+	},
+	"settings": {
+	  "textForeground": "#000000",
+	  "textBackground": "#ffffff",
+	  "dropdownForeground": "#000000",
+	  "dropdownBackground": "#ffffff",
+	  "checkboxForeground": "#000000",
+	  "checkboxBackground": "#ffffff",
+	  "focusedRowBackground": "#e0e0e0",
+	  "focusedRowBorder": "#000000"
+	},
+	"workbench.colorCustomizations": {
+		"sideBar.background": "#ffffff",
+		"sideBar.foreground": "#000000",
+		"settings.headerForeground": "#000000",
+		"settings.textForeground": "#000000",
+		"editorGroupHeader.tabsBackground": "#ffffff",
+		"editorGroupHeader.tabsBorder": "#000000",
+		"titleBar.activeBackground": "#0000aa",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.inactiveBackground": "#0000aa",
+		"titleBar.inactiveForeground": "#ffffff"
 	}
   }
